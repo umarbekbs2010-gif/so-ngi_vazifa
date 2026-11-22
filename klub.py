@@ -1,3 +1,7 @@
+bu kod odamlarni suratga oladi bildirmasdan!
+
+
+
 import datetime
 import os
 import time
